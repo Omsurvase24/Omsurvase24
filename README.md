@@ -27,3 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omsurvase24&show_icons=true&locale=en" alt="omsurvase24" /></p>
 
+[![An image of @omsurvase24's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/omsurvase24)](https://holopin.io/@omsurvase24)
