@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Frontend tech stacks**
 
-- 💬 Ask me about **Python, CSS, C++, Javascript**
+- 💬 Ask me about **Python/Django, CSS, C++, Javascript**
 
 - 📫 How to reach me **ombsurvase@gmail.com**
 
