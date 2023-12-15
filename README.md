@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Om Survase</h1>
-<h3 align="center">A passionate frontend developer as well as Data Science and Machine Learning enthusiast from India.</h3>
+<h3 align="center">A passionate backend developer as well as Data Science and Machine Learning enthusiast from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omsurvase24&label=Profile%20views&color=0e75b6&style=flat" alt="omsurvase24" /> </p>
 
@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/om_survase24" target="blank"><img src="https://img.shields.io/twitter/follow/om_survase24?logo=twitter&style=for-the-badge" alt="om_survase24" /></a> </p>
 
-- 🌱 I’m currently learning **Frontend tech stacks**
+- 🌱 I’m currently learning **Backend Python Django Framework**
 
 - 💬 Ask me about **Python/Django, CSS, C++, Javascript**
 
-- 📫 How to reach me **ombsurvase@gmail.com**
+- 📫 How to reach me **omsurvase24@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
