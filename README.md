@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Django, MySQL and Python<br>👨‍💻 All of my projects are available [here](https://github.com/Omsurvase24?tab=repositories)<br>
+🔭 I’m currently working on: Django, MySQL, Python, React and PHP<br>👨‍💻 All of my projects are available [here](https://github.com/Omsurvase24?tab=repositories)<br>
 
 
 ## 🌐 Socials:
