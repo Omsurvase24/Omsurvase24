@@ -1,10 +1,11 @@
 # 💫 About Me:
 <p>Hello, I am a passionate backend developer with penchant for Python and Django. What sets me apart from my batchmates is that along with my technical expertise, I also have a foundation in leading teams and volunteering for events. I am very curious as a person so you will always find me exploring something, may it be a new tech stack or places. I believe that collaboration and continuous learning are the cornerstones of growth, and I'm always eager to connect with like-minded individuals who share my passion for innovation.</p>
-<br>
-🔭 I’m currently working on: Django, MySQL, Python, React and PHP<br>👨‍💻 All of my projects are available [here](https://github.com/Omsurvase24?tab=repositories)<br>
+
+🔭 I’m currently working on: Django, MySQL, Python, React and PHP <br>
+👨‍💻 All of my projects are available [here](https://github.com/Omsurvase24?tab=repositories) <br>
 💻 Here is my portfolio site https://omsurvase.vercel.app/ <br>
 💬 Ask me anything about Backend Developement <br>
-📫 How to reach me : omsurvase24@gmail.com <br>
+📫 How to reach me : [omsurvase24@gmail.com](mailto:omsurvase24@gmail.com) <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-survase-812747241/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Om_Survase24)
