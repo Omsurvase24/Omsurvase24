@@ -1,5 +1,5 @@
 # 💫 About Me:
-<p>Hello, I am a passionate full stack developer with some experience. What sets me apart from my batchmates is that along with my technical expertise, I also have a foundation in leading teams and volunteering for events. I am very curious as a person so you will always find me exploring something, may it be a new tech stack or places. I believe that collaboration and continuous learning are the cornerstones of growth, and I'm always eager to connect with like-minded individuals who share my passion for innovation.</p>
+<p>Hello, I am a passionate full stack developer currently freelancing. What sets me apart from my batchmates is that along with my technical expertise, I also have a foundation in leading teams and volunteering for events. I am very curious as a person so you will always find me exploring something, may it be a new tech stack or places. I believe that collaboration and continuous learning are the cornerstones of growth, and I'm always eager to connect with like-minded individuals who share my passion for innovation.</p>
 
 🔭 I’m currently working on: Django, MySQL, Python, React and PHP <br>
 🏫 Currently learning: NodeJS, NextJS <br>
