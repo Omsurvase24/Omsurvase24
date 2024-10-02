@@ -4,7 +4,7 @@
 🔭 I’m currently working on: Django, MySQL, Python, React and PHP <br>
 🏫 Currently learning: NodeJS, NextJS <br>
 👨‍💻 All of my projects are available [here](https://github.com/Omsurvase24?tab=repositories) <br>
-💻 Here is my portfolio site https://omsurvase.vercel.app/ <br>
+💻 Here is my portfolio site https://omsurvase24.vercel.app/ <br>
 💬 Ask me anything about Backend Developement <br>
 📫 How to reach me : [omsurvase24@gmail.com](mailto:omsurvase24@gmail.com) <br>
 
