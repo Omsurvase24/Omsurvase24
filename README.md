@@ -21,6 +21,8 @@
 # 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Omsurvase24&show_icons=true&locale=en&layout=compact" alt="omsurvase24" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Omsurvase24" alt="omsurvase24" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Omsurvase24&show_icons=true&locale=en" alt="omsurvase24" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Omsurvase24&" alt="omsurvase24" /></p>
